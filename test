@@ -1,1 +1,8 @@
-test file
+Update Scenario
+Problem: Email Not Sending from Outlook
+Solution: Check SMTP server settings. Make sure the internet connection is stable. Clear the Outbox and restart Outlook. Re-enter password if account was recently updated. Repair Outlook profile via Control Panel > Mail.
+
+
+New Scenario
+Test Problem
+Test Solution
